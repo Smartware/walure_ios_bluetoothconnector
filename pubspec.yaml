@@ -1,8 +1,7 @@
 name: walure_ios_bluetoothconnector
 description: "A flutter project for detecting low energy bluetooth on ios."
 version: 0.0.2
-author: WALURE CAPITAL <bdm.walure@gmail.com>
-homepage: https://github.com/kest-cloud/walureiosbluetoothconnector
+homepage: https://github.com/Smartware/walure_ios_bluetoothconnector
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
